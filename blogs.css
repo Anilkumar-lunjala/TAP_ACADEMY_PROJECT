@@ -1,0 +1,68 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    padding: 30px;
+}
+#try1{
+    text-decoration: none;
+    background-color: green;
+    padding: 5px;
+    margin-left: 30px;
+}
+#try1:hover{
+    background-color: #92a1b1;
+}
+#div1{
+    border: 2px solid #E5E7E9;
+    margin-top: 30px;
+    background-color: #E5E7E9;
+}
+#form1{
+    border: 2px solid white;
+    background-color: white;
+    margin-right: 50%;
+    margin-left: 15%;
+    width: 300px;
+    height: 650px;
+}
+#form2{
+    border: 2px solid white;
+    background-color: white;
+    margin-right: 50%;
+    margin-left: 40%;
+    width: 300px;
+    margin-top: -653px;
+    height: 650px;
+}
+#form3{
+    border: 2px solid white;
+    background-color: white;
+    margin-right: 55%;
+    margin-left: 65%;
+    width: 300px;
+    height: 650px;
+    margin-top: -654px;
+}
+input{
+    border: 2px solid white;
+    background-color: white;
+    color: #5894E6;
+    font-size: medium;
+}
+h1{
+    color: #5894E6;
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+#div2{
+    border:2px solid #E5E7E9;
+    background-color: #E5E7E9;
+    padding-top: 30px;
+}
+marquee{
+    margin-left: 10%;
+    margin-right: 10%;
+}

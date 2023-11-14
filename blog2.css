@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    padding: 30px;
+}
+#try1{
+    text-decoration: none;
+    background-color: green;
+    padding: 5px;
+    margin-left: 30px;
+}
+#try1:hover{
+    background-color: #92a1b1;
+}
+#div1{
+    margin-top: 40px;
+    margin-left: 9%;
+}
+h1{
+    color: #154360;
+}
+p{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 10px;
+}
+h3{
+    color: #154360;
+}
+pre{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 30px;
+}
+h2{
+    color: #154360;
+}

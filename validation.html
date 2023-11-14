@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tap Academy</title>
+    <link rel="icon" href="footer-taplogo.png.webp">
+    <link rel="stylesheet" href="validation.css">
+</head>
+<body>
+    <div>
+        <img src="footer-taplogo.png.webp" alt="Image not found" style="margin-right: 70px; margin-left: 140px;">
+        <a href="index.html">Home </a>
+        <a href="courses.html">Course </a>
+        <a href="reviews.html">Student Reviews </a>
+        <a href="blogs.html">Blog </a>
+        <a href="placements.html">Placements</a>
+        <a href="contact.html">Contact Us </a>
+        <a href="forms2.html" id="try1">Try for Free</a>
+    </div>
+    <center>
+        <img src="thank u.png" alt="" height="250px" width="550px" style="margin-top: 15px;">
+        <h2>Now you can Login!</h2>
+    </center>
+    <form action="index.html" id="form1">
+            <p><b>Login Details Validation</b></p>
+            <label for="">User Name</label><br>
+            <input type="text" required id="uname" name="uname" pattern="[a-zA-Z]{3,15}"><br>
+            <label for="">Phone Number</label><br>
+            <input type="text" required id="pho" name="pho" pattern="[6-9]{1}[0-9]{9}"><br>
+            <label for="">Email ID</label><br>
+            <input type="email" required id="email" name="email"><br><br>
+            <input type="submit" value="Login" id="submit">
+    </form>
+</body>
+</html>
